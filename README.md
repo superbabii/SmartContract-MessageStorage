@@ -113,4 +113,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Solidity Documentation](https://docs.soliditylang.org/)
 - [Truffle Suite](https://www.trufflesuite.com/)
 - [Ganache CLI](https://www.trufflesuite.com/ganache)
-```
