@@ -30,7 +30,7 @@ This repository contains a simple Ethereum smart contract written in Solidity. T
 
     ```bash
     git clone https://github.com/superbabii/SmartContract-MessageStorage.git
-    cd REPO_NAME
+    cd SmartContract-MessageStorage
     ```
 
 2. Install project dependencies:
